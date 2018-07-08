@@ -7,5 +7,7 @@ package dev.liangtl.com.controller;
  *
  */
 public class MyController {
+    public void mapping() {
 
+    }
 }
